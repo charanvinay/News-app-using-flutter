@@ -1,16 +1,10 @@
-# e_news
+# eNews
 
-A new Flutter project.
+## App Video 
 
-## Getting Started
+https://user-images.githubusercontent.com/71263421/122411073-18a43b80-cfa2-11eb-91de-84d2fd326111.mp4
 
-This project is a starting point for a Flutter application.
+## Apk Download link
 
-A few resources to get you started if this is your first Flutter project:
+https://drive.google.com/file/d/1G6MXZbYlI49o58e6SlBmJw-rIeaCs8rK/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
